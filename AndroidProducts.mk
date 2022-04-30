@@ -1,14 +1,14 @@
 #
 # Copyright (C) 2019 The LineageOS Project
-# Copyright (C) 2021 The EvolutionX Project
+# Copyright (C) 2021 The aospX Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_violet.mk
+    $(LOCAL_DIR)/aosp_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_violet-userdebug \
-    evolution_violet-user \
-    evolution_violet-eng
+    aosp_violet-userdebug \
+    aosp_violet-user \
+    aosp_violet-eng
